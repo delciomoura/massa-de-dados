@@ -1,0 +1,36 @@
+{
+    "profissional": {
+        "medico": [
+            {
+                "nome": "Medico 1",
+                "crm": "1234",
+                "uf": "RN",
+                "especialidade": "Clínica Médica"
+            },
+            {
+                "nome": "Medico 2",
+                "crm": "2234",
+                "uf": "RJ",
+                "especialidade": "Cardiologista"
+            },
+            {
+                "nome": "Medico 3",
+                "crm": "2345",
+                "uf": "SP",
+                "especialidade": "Geriatria"
+            },
+            {
+                "nome": "Medico 4",
+                "crm": "1222",
+                "uf": "CE",
+                "especialidade": "Pediatria"
+            },
+            {
+                "nome": "Medico 5",
+                "crm": "5234",
+                "uf": "PB",
+                "especialidade": "Ginecologia"
+            }
+        ]
+    }
+}
